@@ -1,6 +1,4 @@
-<div style="display: inline_block"align="center"><br>
-  <img align="center" alt="Zoro" height="304px" width="85%" object-fit="cover" object-position="bottom" src="https://imgur.com/Pc9x4YV.gif">
- </div>
+>
   
 
 <br>
