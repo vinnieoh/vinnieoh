@@ -7,7 +7,8 @@
     "programming_languages": "Python, C, Javascript, Typescript, PHP, Java, Go",
     "frontend_technologies": "HTML, CSS, Tailwind, React, Vite.js",
     "backend_technologies": "FastApi, Django, SpringBoot, Node.js, Nest.js",
-    "devops_technologies": "Docker, Linux, AWS, Postgresql, MySQL, MongoDB"
+    "devops_technologies": "Docker, Linux, AWS",
+    "database_technologies": "Postgresql, MySQL, MongoDB",
   }
   
   ```
