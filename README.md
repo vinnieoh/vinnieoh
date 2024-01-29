@@ -1,5 +1,5 @@
 <div>
- <h2>Tech Stack</h2>
+ <h1>Tech Stack</h1>
   
   ```Json
   
