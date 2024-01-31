@@ -1,3 +1,12 @@
+<h1>Hello 👋, welcome to my GitHub profile!</h1>
+
+<div>
+<p>
+ I'm Computer Science student at the Federal University of Tocantins (UFT) and Software Developer, with a focus on Backend and currently studying DevOps. I have a passion for Linux and am an enthusiast of the open-source world.
+</p>
+</div>
+
+
 <div>
  <h1>Tech Stack</h1>
   
