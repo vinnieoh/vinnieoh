@@ -17,7 +17,7 @@
     "frontend_technologies": "HTML, CSS, Tailwind, React, Vite.js",
     "backend_technologies": "FastApi, Django, SpringBoot, Node.js, Nest.js, Express.js",
     "devops_technologies": "Docker, Linux, AWS, Shell Script",
-    "database_technologies": "Postgresql, MySQL, MongoDB, Redis",
+    "database_technologies": "Postgresql, MySQL, MongoDB, Redis"
   }
   
   ```
