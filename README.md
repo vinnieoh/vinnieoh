@@ -16,7 +16,7 @@
     "programming_languages": "Python, C, Javascript, Typescript, PHP, Java, Go",
     "frontend_technologies": "HTML, CSS, Tailwind, React, Vite.js",
     "backend_technologies": "FastApi, Django, SpringBoot, Node.js, Nest.js, Express.js",
-    "devops_technologies": "Docker, Linux, AWS, Shell Script",
+    "devops_technologies": "Docker, Linux, AWS, Shell Script, Kubernetes, Terraform",
     "database_technologies": "Postgresql, MySQL, MongoDB, Redis"
   }
   
