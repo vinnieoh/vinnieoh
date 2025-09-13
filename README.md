@@ -1,28 +1,19 @@
 <h1>Hello 👋, welcome to my GitHub profile!</h1>
 
-<div>
 <p>
  I'm Computer Science student at the Federal University of Tocantins (UFT) and Software Developer, with a focus on Backend and currently studying DevOps. I have a passion for Linux and am an enthusiast of the open-source world.
 </p>
-</div>
 
+<h1>Tech Stack</h1>
+ <pre><code>{
+  "programming_languages": "Python, C, Javascript, Typescript, PHP, Java, Go",
+  "frontend_technologies": "HTML, CSS, Tailwind, React, Vite.js",
+  "backend_technologies": "FastApi, Django, SpringBoot, Node.js, Nest.js, Express.js",
+  "devops_technologies": "Docker, Linux, AWS, Shell Script, Kubernetes, Terraform",
+  "database_technologies": "Postgresql, MySQL, MongoDB, Redis"
+}</code></pre>
 
-<div>
- <h1>Tech Stack</h1>
-  
-  ```Json
-  
-  {
-    "programming_languages": "Python, C, Javascript, Typescript, PHP, Java, Go",
-    "frontend_technologies": "HTML, CSS, Tailwind, React, Vite.js",
-    "backend_technologies": "FastApi, Django, SpringBoot, Node.js, Nest.js, Express.js",
-    "devops_technologies": "Docker, Linux, AWS, Shell Script, Kubernetes, Terraform",
-    "database_technologies": "Postgresql, MySQL, MongoDB, Redis"
-  }
-  
-  ```
-
-  ##
+##
  
 <div style="display: inline_block"align="center"> 
   <a href = "mailto:vinnieoliveira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
